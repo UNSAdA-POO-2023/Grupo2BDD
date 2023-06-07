@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76ee158e-21d4-4728-9ff0-b8002a60205c" name="Changes" comment="conectar con la base de datos">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpfinal/tpfinal/models/dao/IUsuario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/tpfinal/tpfinal/models/dao/UsuarioImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tpfinal/tpfinal/models/dao/UsuarioImp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="76ee158e-21d4-4728-9ff0-b8002a60205c" name="Changes" comment="nada" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +108,7 @@
       <workItem from="1686058951175" duration="2727000" />
       <workItem from="1686071598645" duration="13567000" />
       <workItem from="1686086715477" duration="331000" />
-      <workItem from="1686135861260" duration="7678000" />
+      <workItem from="1686135861260" duration="8378000" />
     </task>
     <task id="LOCAL-00001" summary="conectar con la base de datos">
       <created>1686084766148</created>
@@ -122,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686084766148</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nada">
+      <created>1686153591961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686153591961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +135,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -142,6 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="conectar con la base de datos" />
-    <option name="LAST_COMMIT_MESSAGE" value="conectar con la base de datos" />
+    <MESSAGE value="nada" />
+    <option name="LAST_COMMIT_MESSAGE" value="nada" />
   </component>
 </project>
